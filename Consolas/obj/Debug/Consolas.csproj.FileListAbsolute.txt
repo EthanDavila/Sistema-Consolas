@@ -1,0 +1,15 @@
+C:\Consolas\Consolas\bin\Debug\Consolas.exe.config
+C:\Consolas\Consolas\bin\Debug\Consolas.exe
+C:\Consolas\Consolas\bin\Debug\Consolas.pdb
+C:\Consolas\Consolas\obj\Debug\Consolas.csproj.AssemblyReference.cache
+C:\Consolas\Consolas\obj\Debug\Consolas.Menu.resources
+C:\Consolas\Consolas\obj\Debug\Consolas.Properties.Resources.resources
+C:\Consolas\Consolas\obj\Debug\Consolas.csproj.GenerateResource.cache
+C:\Consolas\Consolas\obj\Debug\Consolas.csproj.CoreCompileInputs.cache
+C:\Consolas\Consolas\obj\Debug\Consolas.exe
+C:\Consolas\Consolas\obj\Debug\Consolas.pdb
+C:\Consolas\Consolas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Consolas\Consolas\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Consolas\Consolas\obj\Debug\Consolas.csproj.CopyComplete
+C:\Consolas\Consolas\bin\Debug\FontAwesome.Sharp.dll
+C:\Consolas\Consolas\obj\Debug\Consolas.Views.AlquilerConsola.resources
